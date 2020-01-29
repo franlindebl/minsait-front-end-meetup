@@ -1,0 +1,79 @@
+/* Soho Normal 100*/
+@font-face {
+  font-family: "Soho";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./SohoGothicPro-Thin.otf");
+}
+
+/* Soho Normal 200*/
+@font-face {
+  font-family: "Soho";
+  font-style: normal;
+  font-weight: 200;
+  src: url("./Monotype-Soho_Gothic_Pro_Light.ttf");
+}
+
+/* Soho Normal 400*/
+@font-face {
+  font-family: "Soho";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./Monotype-SohoGothicPro-Regular.ttf");
+}
+
+/* Soho Normal 500*/
+@font-face {
+  font-family: "Soho";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./Monotype-Soho_Gothic_Pro_Medium.ttf");
+}
+
+/* Soho Normal 700*/
+@font-face {
+  font-family: "Soho";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./Monotype-Soho_Gothic_Pro_Bold.ttf");
+}
+
+/* Soho Italic 100*/
+@font-face {
+  font-family: "Soho";
+  font-style: italic;
+  font-weight: 100;
+  src: url("./SohoGothicPro-ThinItalic.otf");
+}
+
+/* Soho Italic 200*/
+@font-face {
+  font-family: "Soho";
+  font-style: italic;
+  font-weight: 200;
+  src: url("./Monotype-Soho_Gothic_Pro_Light_Italic.ttf");
+}
+
+/* Soho Italic 400*/
+@font-face {
+  font-family: "Soho";
+  font-style: italic;
+  font-weight: 400;
+  src: url("./Monotype-Soho_Gothic_Pro_Italic.ttf");
+}
+
+/* Soho Italic 500*/
+@font-face {
+  font-family: "Soho";
+  font-style: italic;
+  font-weight: 500;
+  src: url("./Monotype-Soho_Gothic_Pro_Medium_Italic.ttf");
+}
+
+/* Soho Italic 700*/
+@font-face {
+  font-family: "Soho";
+  font-style: italic;
+  font-weight: 700;
+  src: url("./Monotype-Soho_Gothic_Pro_Bold_Italic.ttf");
+}
