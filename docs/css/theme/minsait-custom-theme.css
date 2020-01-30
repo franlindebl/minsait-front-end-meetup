@@ -417,7 +417,7 @@ body {
 
 .reveal .slide-background-content {
   background-position: bottom right;
-  background-size: cover;
+  background-size: contain;
 }
 
 .reveal .question-big {
@@ -511,4 +511,16 @@ body {
 
 .ta-center {
   text-align: center;
+}
+
+.reveal .big-title-centered {
+  text-align: center;
+  line-height: 1;
+  font-size: 2em;
+  margin-top: 3em;
+  color: #1a3b47;
+  font-family: PlayfairDisplay, sans-serif;
+  font-weight: 400;
+  letter-spacing: normal;
+  text-shadow: none;
 }
